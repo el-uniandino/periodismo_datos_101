@@ -1,0 +1,4 @@
+outs:
+- md5: 36bc7c9bce5e8ee44e7452365c8f9418
+  size: 152571
+  path: scrape_plebiscito_cod.csv
