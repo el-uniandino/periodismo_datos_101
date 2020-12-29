@@ -1,1 +1,2 @@
-files/
+*.csv
+.ipynb_checkpoints/
