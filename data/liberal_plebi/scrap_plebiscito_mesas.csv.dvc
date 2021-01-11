@@ -1,0 +1,4 @@
+outs:
+- md5: 947a7a2999920c00e1f4773f697a1d50
+  size: 12669066
+  path: scrap_plebiscito_mesas.csv
