@@ -1,6 +1,8 @@
 # periodismo_datos_101
+
 Curso de periodismo de datos de El Uniandino
 
-Licencia Creative Commons - Atribución-NoComercial-CompartirIgual - CC BY-NC-SA
+Licencia GNU GPLv3 en ```./LICENSE```
 
 Dueño de los derechos de reproducción: El Uniandino
+

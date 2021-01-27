@@ -1,0 +1,4 @@
+outs:
+- md5: 73aa5fb315726c090423ba60329d0a86
+  size: 64678
+  path: consulta_liberal.csv
