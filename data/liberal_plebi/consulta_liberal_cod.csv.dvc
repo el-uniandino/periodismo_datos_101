@@ -1,4 +1,9 @@
 outs:
+<<<<<<< HEAD
+- md5: 867283bb954fddd7879ca56614fbdecd
+  size: 122081
+=======
 - md5: 4054487b7fa20e6e19b9480e732fd506
   size: 112315
+>>>>>>> 7a78c5b49224708c0ecf70544603d91a79c797c5
   path: consulta_liberal_cod.csv
